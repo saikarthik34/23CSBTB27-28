@@ -1,2 +1,2 @@
 # 23CSBTB27-28
-https://colab.research.google.com/drive/1OFqI4vqoxA3T1fKmHF6M4Te_dt1TApwu#scrollTo=sDbNg_L8oiwj
+1.[https://colab.research.google.com/gist/saikarthik34/1be9ce3e44429b9479dd40ae18fa95c3/list_type.ipynb]
